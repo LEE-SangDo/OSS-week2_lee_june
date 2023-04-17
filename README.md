@@ -35,11 +35,11 @@ def function():
 
 [https://lynmp.com/en/article/title/markdown-code-block-as811c9dc5mm](링크예제2, "링크에 관련된 설명")
 
-![](![image](https://user-images.githubusercontent.com/71632350/232576897-2c969462-dbb1-4fe3-babf-a1fc45fe265f.png)
+![하얀강아지](https://user-images.githubusercontent.com/71632350/232576897-2c969462-dbb1-4fe3-babf-a1fc45fe265f.png)
 
-![하얀 강아지](![image](https://user-images.githubusercontent.com/71632350/232576999-7bb76a53-3f9f-4eb4-ac19-3acc0a94f834.png)
+![하얀강아지](https://user-images.githubusercontent.com/71632350/232576999-7bb76a53-3f9f-4eb4-ac19-3acc0a94f834.png)
 
-![하얀 강아지](!![image](https://user-images.githubusercontent.com/71632350/232577135-1a436574-9be2-4d7b-bab3-8c86d7cd3fe6.png "하얀 강아지")
+![하얀강아지](https://user-images.githubusercontent.com/71632350/232577135-1a436574-9be2-4d7b-bab3-8c86d7cd3fe6.png "하얀 강아지")
 
       
 
