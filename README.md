@@ -24,9 +24,9 @@
 > 인용문 추가
 >> 인용문 내 추가
 
-```
+``` python
 def function():
   print("hello world")
-``` python
+```
       
 
